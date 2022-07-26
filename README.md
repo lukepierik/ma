@@ -1,6 +1,7 @@
 ---
 title: "About"
 permalink: "/about/"
+sitemap:"false"
 layout: page
 ---
 
