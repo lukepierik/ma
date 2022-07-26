@@ -9,6 +9,16 @@ $e = mc^2$
 and
 $$y=mx+b$$
 
+something more complicated:
+
+$$\underset{n-1 \text{ ones per row}}{
+\begin{pmatrix} 0 & 1 & \cdots & 1 \\
+1 & 0 & \cdots & 1 \\
+\vdots & \vdots  & \ddots & \vdots \\
+1 & 1 & \cdots & 0
+\end{pmatrix} }\scriptsize{n \text{ columns}}
+$$
+
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
 Jekyll also offers powerful support for code snippets:
