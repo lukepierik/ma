@@ -58,7 +58,7 @@ A wrapper `div` with the class `large` can be used to increase the width of an i
 
 <img src="/assets/SOME2-image1.jpg" alt="imageA" width="200"/>
 
-<p align="center">
+<p align="center" width = "100%">
     <img src="https://github.com/lukepierik/ma/blob/master/assets/SOME2-image1.jpg?raw=true" alt="imageA" width="200"/>
 </p>
 
