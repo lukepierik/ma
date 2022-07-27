@@ -55,6 +55,8 @@ A wrapper `div` with the class `large` can be used to increase the width of an i
 
 [Flower](https://unsplash.com/photos/iGrsa9rL11o) by Tj Holowaychuk
 
+![image1](/assets/SOME2_v1.png)
+
 ## Embedded content
 
 You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
