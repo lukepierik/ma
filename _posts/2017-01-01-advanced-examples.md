@@ -62,6 +62,10 @@ A wrapper `div` with the class `large` can be used to increase the width of an i
     <img src="https://github.com/lukepierik/ma/blob/master/assets/SOME2-image1.jpg?raw=true" alt="imageA" width="200"/>
 </p>
 
+<p align="center" width = "100%">
+    here is some text that I want to center
+</p>
+
 ![finalimage?](https://github.com/lukepierik/ma/blob/master/assets/SOME2-image1.jpg?raw=true)
 
 ## Embedded content
