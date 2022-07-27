@@ -9,6 +9,7 @@ and
 
 
 New Equations: $a=b$ and $b=c$ so $\rightarrow a=c$
+
 $$y=mx+b$$
 
 something more complicated:
