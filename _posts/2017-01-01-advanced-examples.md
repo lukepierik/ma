@@ -65,6 +65,8 @@ A wrapper `div` with the class `large` can be used to increase the width of an i
 
 ![myprofileimage](https://avatars.githubusercontent.com/u/99900173?v=4)
 
+![finalimage?](https://github.com/lukepierik/ma/blob/master/assets/SOME2-image1.jpg?raw=true)
+
 ## Embedded content
 
 You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
