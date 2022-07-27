@@ -55,11 +55,11 @@ A wrapper `div` with the class `large` can be used to increase the width of an i
 
 [Flower](https://unsplash.com/photos/iGrsa9rL11o) by Tj Holowaychuk
 
-<img src="assets/SOME2-image1.jpg" alt="imageA" width="200"/>
+<img src="/assets/SOME2-image1.jpg" alt="imageA" width="200"/>
 
-![image1](assets/images/some2-image1.jpg)
+![image1](/assets/images/some2-image1.jpg)
 
-![image2](/assets/SOME2-image1.jpg))
+![image2](/assets/SOME2-image1.jpg)
 
 ![myprofileimage](https://avatars.githubusercontent.com/u/99900173?v=4)
 
