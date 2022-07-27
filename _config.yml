@@ -1,6 +1,6 @@
 title: "Luke Pierik"
 author: "Blog Author"
-description: "A SOME2 Submission Spot. Made with <b style=\"color: #f45;\">&lt;3</b>". Interested in applied math, especially within <b="color: #00e68a">biology</b>
+description: "A SOME2 Submission Spot. Made with <b style=\"color: #f45;\">&lt;3</b>". #Interested in applied math, especially within <b="color: #00e68a">biology</b>
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
