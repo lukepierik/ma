@@ -64,7 +64,7 @@ A wrapper `div` with the class `large` can be used to increase the width of an i
 
 ![finalimage?](https://github.com/lukepierik/ma/blob/master/assets/SOME2-image1.jpg?raw=true)
 
-<img src="https://github.com/lukepierik/ma/blob/master/assets/images/some2/some2-image2.png?raw=true" alt="imageB" width=35%>
+<img src="https://github.com/lukepierik/ma/blob/master/assets/images/some2/some2-image2.png?raw=true" alt="imageB" width="35%"/>
 
 ## Embedded content
 
